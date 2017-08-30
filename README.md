@@ -5,10 +5,10 @@
 Additional Hardware Used
 ========================
   1) 2x L9110s motor driver modules
-  2) 1x LM317t voltage regulator\n
+  2) 1x LM317t voltage regulator
   3) 1x 11.1V LiPo
-  *To Do:
-    *2x 9g servos
-    *RaspberryPi camera v2
-    *Xbox 360 controller
-    *more to come...
+  To Do:
+  4) 2x 9g servos
+  5) RaspberryPi camera v2
+  6) Xbox 360 controller
+  7) more to come...
