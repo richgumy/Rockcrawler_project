@@ -11,7 +11,9 @@ Additional Hardware Used
 To Do:
 ======
 
-  4) 2x 9g servos
-  5) RaspberryPi camera v2
-  6) Xbox 360 controller
-  7) more to come...
+  1) 2x 9g servos
+  2) RaspberryPi camera v2 OR phone mount
+  3) ~~Xbox 360 controller~~
+  4) Stream to video to URL for opencv processing
+  5) Design and make rockcrawler housing
+  6) more to come...
